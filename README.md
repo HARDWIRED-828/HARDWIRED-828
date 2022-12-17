@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tommy @HARDWIRED-828
+- 👋 Hi, I’m Tommy
 - 👀 I’m interested in Technology, Linux, Ubuntu, Metallica, Philly Sports
 - 🌱 I’m currently learning Linux, Ubuntu, Servers, Terminal
 - 💞️ I’m looking to collaborate on New projects for myself and I can help developers test new projects to give back.
